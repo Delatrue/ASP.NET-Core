@@ -1,0 +1,14 @@
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\bin\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.exe
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\bin\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.deps.json
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\bin\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.runtimeconfig.json
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\bin\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.runtimeconfig.dev.json
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\bin\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.dll
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\bin\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.pdb
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.csproj.AssemblyReference.cache
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.AssemblyInfoInputs.cache
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.AssemblyInfo.cs
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.csproj.CoreCompileInputs.cache
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.dll
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.pdb
+C:\Users\Note\source\repos\ASP.NETcoreWebAppAsyncProg\ASP.NETcoreWebAppAsyncProg\obj\Debug\netcoreapp3.1\ASP.NETcoreWebAppAsyncProg.genruntimeconfig.cache
